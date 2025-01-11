@@ -85,4 +85,8 @@ You can tweak the player movement settings by modifying the following variables 
 - `moveSpeed`: Adjust the speed of movement.
 - `rotationSpeed`: Change the speed of rotation using keyboard.
 - `mouseSensitivity`: Set how sensitive the mouse movement is.
+<<<<<<< HEAD
 Feel free to contribute or suggest improvements to make the project even better!
+=======
+
+>>>>>>> d57038293f7a0d56c32d83fa57ba9c62dd74b658
